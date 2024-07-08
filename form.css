@@ -1,0 +1,33 @@
+.container {
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSprTq0ykD2gG-SwnMmlz5hM7SsMsSf4LKTjQ&s");
+    margin-right: 400px;
+    margin-left: 400px;
+    padding: 8px;
+    border-radius: 50px;
+    position: relative;
+    left: 34%;
+    background-image:rgb(236, 15, 181) ;
+}
+
+label {
+    font-weight: bold;
+    display: block;
+    margin: 20px;
+}
+
+input {
+    border-radius: 20px;
+}
+
+body {
+    background-image: url("https://static.vecteezy.com/system/resources/previews/030/900/740/non_2x/two-birds-standing-on-the-edge-of-a-pond-ai-generated-photo.jpg");
+    display:ruby-text;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+button {
+    margin: 10px;
+    background-color: #A5A53E;
+}
